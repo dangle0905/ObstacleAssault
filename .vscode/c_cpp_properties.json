@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleAssaultEditor Editor Win64 Development (ObstacleAssault)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\dangl\\OneDrive\\Documents\\Unreal Projects\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_ObstacleAssault.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\dangl\\OneDrive\\Documents\\Unreal Projects\\ObstacleAssault\\ObstacleAssault\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
